@@ -6,7 +6,8 @@
 Welcome to Sphinx test's documentation!
 =======================================
 
-Hello world!
+Hello world! This is a test of hosting sphinx docs
+on S3 while deploying them via Travis CI.
 
 .. toctree::
    :maxdepth: 2
