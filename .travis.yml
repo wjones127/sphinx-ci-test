@@ -13,3 +13,4 @@ deploy:
   bucket: sphinx-test
   skip_cleanup: true
   local_dir: build/html
+  region: "us-west-2"
